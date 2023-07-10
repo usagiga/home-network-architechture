@@ -12,7 +12,7 @@ A network are devided several segments.
 
 ### IP Addresses
 
-Default Gateway: `10.0.0.0/24`
+Default Gateway: `10.0.0.254/24`
 
 | Segments | # | Hosts |
 | ---- | -- | -------- |
@@ -29,7 +29,7 @@ Default Gateway: `10.0.0.0/24`
 
 ### IP Addresses
 
-Default Gateway: `10.1.0.0/24`
+Default Gateway: `10.1.0.254/24`
 
 | Segments | # | Hosts |
 | ---- | -- | -------- |
@@ -48,7 +48,7 @@ Default Gateway: `10.1.0.0/24`
 
 ### IP Addresses
 
-Default Gateway: `10.2.0.0/24`
+Default Gateway: `10.2.0.254/24`
 
 | Segments | # | Hosts |
 | ---- | -- | -------- |
@@ -66,7 +66,7 @@ Default Gateway: `10.2.0.0/24`
 
 ### IP Addresses
 
-Default Gateway: `10.255.0.0/24`
+Default Gateway: `10.255.0.254/24`
 
 | Segments | # | Hosts |
 | ---- | -- | -------- |
